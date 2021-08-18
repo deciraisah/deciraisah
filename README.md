@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @deciraisah (just call me Deci! :) )
-- 👀 I’m interested in... building a career towards data science and analytics where I can help others understand and learn more by storytelling through data
-and providing excellent user experience!
-- 🌱 I’m currently learning ... how to utilize Python libraries to create awesome graphs and plots!
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in... linguistics, NLP, and building a career towards data science and analytics where I can help others understand and learn about information by data storytelling while providing excellent user experience!
+- 🌱 I’m currently learning ... how to utilize Python libraries to create awesome graphs and plots! I'm also doing research on data and information archiving and retrieval.
+- 💞️ I’m looking to collaborate on ... projects or research that involves NLP, data storage and archiving!
 - 📫 How to reach me ... drop me an email at decirh@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/deci-raisa-h-abb13811a/
 
 <!---
